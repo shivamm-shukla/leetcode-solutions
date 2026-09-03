@@ -1,0 +1,48 @@
+name: Organize LeetCode Solutions
+
+# 1. On every push to main (i.e. right after LeetHub commits a new solution)
+# 2. As a daily safety-net cron, in case pushes get batched or missed
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'topics/**'
+      - 'README.md'
+      - '.leetcode_meta_cache.json'
+  schedule:
+    - cron: '0 3 * * *'   # daily at 3 AM UTC
+  workflow_dispatch: {}    # lets you trigger manually if you ever want to
+
+permissions:
+  contents: write
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run organizer
+        run: python scripts/organize.py
+        env:
+          REPO_ROOT: ${{ github.workspace }}
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to organize — repo already up to date."
+          else
+            git commit -m "chore: auto-organize solutions and update README"
+            git push
+          fi
