@@ -1,20 +1,26 @@
 name: Organize LeetCode Solutions
 
-# 1. On every push to main (i.e. right after LeetHub commits a new solution)
-# 2. As a daily safety-net cron, in case pushes get batched or missed
 on:
+  # Right after LeetHub commits a new solution.
   push:
     branches: [main]
     paths-ignore:
       - 'topics/**'
       - 'README.md'
       - '.leetcode_meta_cache.json'
+  # Safety net, in case a push slipped through while a run was in flight.
   schedule:
-    - cron: '0 3 * * *'   # daily at 3 AM UTC
-  workflow_dispatch: {}    # lets you trigger manually if you ever want to
+    - cron: '0 3 * * *'   # 03:00 UTC daily
+  workflow_dispatch: {}
 
 permissions:
   contents: write
+
+# LeetHub can land two submissions seconds apart. Let a run finish rather
+# than cancelling it half way through moving files around.
+concurrency:
+  group: organize-solutions
+  cancel-in-progress: false
 
 jobs:
   organize:
@@ -22,8 +28,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,14 +39,28 @@ jobs:
         env:
           REPO_ROOT: ${{ github.workspace }}
 
-      - name: Commit changes if any
+      - name: Commit and push if anything changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "Nothing to organize — repo already up to date."
-          else
-            git commit -m "chore: auto-organize solutions and update README"
-            git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to organize — repo is already up to date."
+            exit 0
           fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: file new solutions and refresh progress tables"
+
+          # LeetHub may have pushed while this run was working. Rebase our
+          # single commit on top of whatever landed, then push.
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 5
+          done
+
+          echo "Could not push after 3 attempts."
+          exit 1
