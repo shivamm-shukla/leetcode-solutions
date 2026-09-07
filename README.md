@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 0**
+**Total solved: 1**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
 
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| _Nothing synced yet_ | 0 | |
+| Array | 1 | [39](topics/array/combination-sum/ "Combination Sum") |
 <!-- TOPICS:END -->
 
 ---
@@ -71,15 +71,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0039-combination-sum) |
-## Backtracking
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0039-combination-sum) |
-<!---LeetCode Topics End-->

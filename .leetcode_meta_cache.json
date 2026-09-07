@@ -1,1 +1,17 @@
-{}
+{
+  "combination-sum": {
+    "difficulty": "Medium",
+    "id": "39",
+    "title": "Combination Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  }
+}
