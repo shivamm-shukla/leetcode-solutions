@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Backtracking  
+**Problem:** [leetcode.com/problems/combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)  
+**Solution:** [`0040-combination-sum-ii.java`](./0040-combination-sum-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/combination-sum-ii">40. Combination Sum II</a></h2><h3>Medium</h3><hr><p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sum to <code>target</code>.</p>
 
 <p>Each number in <code>candidates</code>&nbsp;may only be used <strong>once</strong> in the combination.</p>
@@ -37,3 +44,12 @@
 	<li><code>1 &lt;=&nbsp;candidates[i] &lt;= 50</code></li>
 	<li><code>1 &lt;= target &lt;= 30</code></li>
 </ul>
+
+## Approach
+
+_Pending._
+
+## Complexity
+
+- **Time:** _pending_
+- **Space:** _pending_

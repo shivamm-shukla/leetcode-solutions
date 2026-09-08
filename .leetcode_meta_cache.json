@@ -13,5 +13,20 @@
         "slug": "backtracking"
       }
     ]
+  },
+  "combination-sum-ii": {
+    "difficulty": "Medium",
+    "id": "40",
+    "title": "Combination Sum II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
   }
 }
