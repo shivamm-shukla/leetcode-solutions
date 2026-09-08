@@ -28,8 +28,3 @@
 ## Approach
 
 _Pending._
-
-## Complexity
-
-- **Time:** _pending_
-- **Space:** _pending_

@@ -199,12 +199,9 @@ def find_solution_file(problem_dir: Path):
 NOTES_TEMPLATE = """## Approach
 
 _Pending._
-
-## Complexity
-
-- **Time:** _pending_
-- **Space:** _pending_
 """
+
+COMPLEXITY_SECTION_RE = re.compile(r"\n*## Complexity.*?(?=\n##|\Z)", re.DOTALL | re.IGNORECASE)
 
 
 def problem_meta_block(slug: str, meta: dict, solution: Path | None) -> str:
@@ -244,6 +241,9 @@ def ensure_problem_readme(problem_dir: Path, slug: str, meta: dict) -> None:
 
     if "## Approach" not in patched:
         patched = patched.rstrip() + "\n\n" + NOTES_TEMPLATE
+
+    # Strip Complexity section if present
+    patched = COMPLEXITY_SECTION_RE.sub("", patched).rstrip() + "\n"
 
     if patched != existing:
         readme.write_text(patched)

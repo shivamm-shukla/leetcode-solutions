@@ -16,18 +16,23 @@ on:
 permissions:
   contents: write
 
-# LeetHub can land two submissions seconds apart. Let a run finish rather
-# than cancelling it half way through moving files around.
+# If LeetHub pushes multiple commits in rapid succession, cancel earlier
+# in-flight runs so only the final settled commit is organized.
 concurrency:
   group: organize-solutions
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   organize:
     runs-on: ubuntu-latest
     steps:
+      - name: Settle delay for LeetHub multi-commit sync
+        run: sleep 10
+
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,16 +56,16 @@ jobs:
           git add -A
           git commit -m "chore: file new solutions and refresh progress tables"
 
-          # LeetHub may have pushed while this run was working. Rebase our
-          # single commit on top of whatever landed, then push.
-          for attempt in 1 2 3; do
+          # Push with retry in case remote updated
+          for attempt in 1 2 3 4 5; do
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then
               echo "Pushed on attempt $attempt."
               exit 0
             fi
-            echo "Push attempt $attempt failed, retrying..."
+            echo "Push attempt $attempt failed, aborting dirty rebase and retrying..."
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
 
-          echo "Could not push after 3 attempts."
+          echo "Could not push after 5 attempts."
           exit 1

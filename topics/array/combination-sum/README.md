@@ -50,8 +50,3 @@ These are the only two combinations.
 ## Approach
 
 _Pending._
-
-## Complexity
-
-- **Time:** _pending_
-- **Space:** _pending_

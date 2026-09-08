@@ -5,7 +5,7 @@
 [![Auto Synced](https://img.shields.io/badge/Sync-Automated-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 ![Last Commit](https://img.shields.io/github/last-commit/shivamm-shukla/leetcode-solutions?style=for-the-badge&color=blue)
 
-Data structures and algorithms problems I solve on LeetCode, written in Java. Everything is filed topic-wise, and every problem carries a short note on the approach I took along with its time and space complexity.
+Data structures and algorithms problems I solve on LeetCode, written in Java. Everything is filed topic-wise, and every problem carries a short note on the approach I took.
 
 Solutions reach this repo on their own — I don't move folders around by hand.
 
@@ -49,7 +49,7 @@ Everything on this page is mine except the blocks between the `PROGRESS` and `TO
 topics/
 └── array/
     └── two-sum/
-        ├── README.md      # the problem, my approach, complexity
+        ├── README.md      # the problem, my approach
         └── Solution.java  # the accepted submission
 scripts/
 └── organize.py            # files solutions, rebuilds the tables
