@@ -28,5 +28,24 @@
         "slug": "backtracking"
       }
     ]
+  },
+  "subsets-ii": {
+    "difficulty": "Medium",
+    "id": "90",
+    "title": "Subsets II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
   }
 }

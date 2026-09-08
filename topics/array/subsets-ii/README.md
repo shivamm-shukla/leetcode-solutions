@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Backtracking, Bit Manipulation  
+**Problem:** [leetcode.com/problems/subsets-ii](https://leetcode.com/problems/subsets-ii/)  
+**Solution:** [`0090-subsets-ii.java`](./0090-subsets-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/subsets-ii">90. Subsets II</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> that may contain duplicates, return <em>all possible</em> <span data-keyword="subset"><em>subsets</em></span><em> (the power set)</em>.</p>
 
 <p>The solution set <strong>must not</strong> contain duplicate subsets. Return the solution in <strong>any order</strong>.</p>
@@ -17,3 +24,12 @@
 	<li><code>1 &lt;= nums.length &lt;= 10</code></li>
 	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
 </ul>
+
+## Approach
+
+_Pending._
+
+## Complexity
+
+- **Time:** _pending_
+- **Space:** _pending_

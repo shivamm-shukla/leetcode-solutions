@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 2**
+**Total solved: 3**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 0 |
-| 🟡 Medium | 2 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
 
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| Array | 2 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II") |
+| Array | 3 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II") |
 <!-- TOPICS:END -->
 
 ---
@@ -71,19 +71,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0090-subsets-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0090-subsets-ii) |
-## Backtracking
-|  |
-| ------- |
-| [0090-subsets-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0090-subsets-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0090-subsets-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0090-subsets-ii) |
-<!---LeetCode Topics End-->
