@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming  
+**Problem:** [leetcode.com/problems/house-robber](https://leetcode.com/problems/house-robber/)  
+**Solution:** [`0198-house-robber.java`](./0198-house-robber.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/house-robber">198. House Robber</a></h2><h3>Medium</h3><hr><p>You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and <b>it will automatically contact the police if two adjacent houses were broken into on the same night</b>.</p>
 
 <p>Given an integer array <code>nums</code> representing the amount of money of each house, return <em>the maximum amount of money you can rob tonight <b>without alerting the police</b></em>.</p>
@@ -28,3 +35,7 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 400</code></li>
 </ul>
+
+## Approach
+
+_Pending._

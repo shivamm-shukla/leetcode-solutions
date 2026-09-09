@@ -74,6 +74,21 @@
       }
     ]
   },
+  "house-robber": {
+    "difficulty": "Medium",
+    "id": "198",
+    "title": "House Robber",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "letter-combinations-of-a-phone-number": {
     "difficulty": "Medium",
     "id": "17",
