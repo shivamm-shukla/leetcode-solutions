@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟢 Easy  
+**Topics:** Array  
+**Problem:** [leetcode.com/problems/check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)  
+**Solution:** [`1752-check-if-array-is-sorted-and-rotated.java`](./1752-check-if-array-is-sorted-and-rotated.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">1878. Check if Array Is Sorted and Rotated</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
 
 <p>There may be <strong>duplicates</strong> in the original array.</p>
@@ -38,3 +45,7 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+## Approach
+
+_Pending._

@@ -14,11 +14,11 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 6**
+**Total solved: 7**
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| Array | 4 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [216](topics/array/combination-sum-iii/ "Combination Sum III") |
+| Array | 5 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
 | Math | 1 | [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 <!-- TOPICS:END -->
@@ -73,11 +73,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-<!---LeetCode Topics End-->

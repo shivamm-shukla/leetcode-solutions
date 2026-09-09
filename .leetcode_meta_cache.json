@@ -1,4 +1,15 @@
 {
+  "check-if-array-is-sorted-and-rotated": {
+    "difficulty": "Easy",
+    "id": "1752",
+    "title": "Check if Array Is Sorted and Rotated",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
   "climbing-stairs": {
     "difficulty": "Easy",
     "id": "70",
