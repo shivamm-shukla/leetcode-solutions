@@ -141,5 +141,24 @@
         "slug": "bit-manipulation"
       }
     ]
+  },
+  "unique-paths": {
+    "difficulty": "Medium",
+    "id": "62",
+    "title": "Unique Paths",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ]
   }
 }

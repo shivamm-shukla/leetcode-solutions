@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 9**
+**Total solved: 10**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 2 |
-| 🟡 Medium | 7 |
+| 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
 
@@ -31,8 +31,8 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 | Topic | Solved | Problems |
 |---|---|---|
 | Array | 7 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [198](topics/array/house-robber/ "House Robber"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated") |
+| Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
-| Math | 1 | [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 <!-- TOPICS:END -->
 
 ---
@@ -73,19 +73,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0062-unique-paths) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0062-unique-paths) |
-## Combinatorics
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0062-unique-paths) |
-<!---LeetCode Topics End-->

@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Math, Dynamic Programming, Combinatorics  
+**Problem:** [leetcode.com/problems/unique-paths](https://leetcode.com/problems/unique-paths/)  
+**Solution:** [`0062-unique-paths.java`](./0062-unique-paths.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/unique-paths">62. Unique Paths</a></h2><h3>Medium</h3><hr><p>There is a robot on an <code>m x n</code> grid. The robot is initially located at the <strong>top-left corner</strong> (i.e., <code>grid[0][0]</code>). The robot tries to move to the <strong>bottom-right corner</strong> (i.e., <code>grid[m - 1][n - 1]</code>). The robot can only move either down or right at any point in time.</p>
 
 <p>Given the two integers <code>m</code> and <code>n</code>, return <em>the number of possible unique paths that the robot can take to reach the bottom-right corner</em>.</p>
@@ -29,3 +36,7 @@
 <ul>
 	<li><code>1 &lt;= m, n &lt;= 100</code></li>
 </ul>
+
+## Approach
+
+_Pending._
