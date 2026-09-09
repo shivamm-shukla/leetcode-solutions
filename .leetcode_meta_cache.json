@@ -29,6 +29,21 @@
       }
     ]
   },
+  "combination-sum-iii": {
+    "difficulty": "Medium",
+    "id": "216",
+    "title": "Combination Sum III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
   "subsets-ii": {
     "difficulty": "Medium",
     "id": "90",

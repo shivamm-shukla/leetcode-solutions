@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Backtracking  
+**Problem:** [leetcode.com/problems/combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/)  
+**Solution:** [`0216-combination-sum-iii.java`](./0216-combination-sum-iii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/combination-sum-iii">216. Combination Sum III</a></h2><h3>Medium</h3><hr><p>Find all valid combinations of <code>k</code> numbers that sum up to <code>n</code> such that the following conditions are true:</p>
 
 <ul>
@@ -45,3 +52,7 @@ Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2
 	<li><code>2 &lt;= k &lt;= 9</code></li>
 	<li><code>1 &lt;= n &lt;= 60</code></li>
 </ul>
+
+## Approach
+
+_Pending._

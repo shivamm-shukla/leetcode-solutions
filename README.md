@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 3**
+**Total solved: 4**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 0 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
 
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| Array | 3 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II") |
+| Array | 4 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [216](topics/array/combination-sum-iii/ "Combination Sum III") |
 <!-- TOPICS:END -->
 
 ---
@@ -71,15 +71,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0216-combination-sum-iii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0216-combination-sum-iii) |
-## Backtracking
-|  |
-| ------- |
-| [0216-combination-sum-iii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0216-combination-sum-iii) |
-<!---LeetCode Topics End-->
