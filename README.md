@@ -14,11 +14,11 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 5**
+**Total solved: 6**
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 0 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 <!-- PROGRESS:END -->
@@ -32,6 +32,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 |---|---|---|
 | Array | 4 | [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [216](topics/array/combination-sum-iii/ "Combination Sum III") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
+| Math | 1 | [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 <!-- TOPICS:END -->
 
 ---
@@ -72,19 +73,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0070-climbing-stairs) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->

@@ -1,4 +1,23 @@
 {
+  "climbing-stairs": {
+    "difficulty": "Easy",
+    "id": "70",
+    "title": "Climbing Stairs",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ]
+  },
   "combination-sum": {
     "difficulty": "Medium",
     "id": "39",
