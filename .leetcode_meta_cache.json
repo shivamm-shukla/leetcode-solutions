@@ -181,6 +181,21 @@
       }
     ]
   },
+  "two-sum": {
+    "difficulty": "Easy",
+    "id": "1",
+    "title": "Two Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
   "unique-paths": {
     "difficulty": "Medium",
     "id": "62",
