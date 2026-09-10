@@ -123,6 +123,45 @@
       }
     ]
   },
+  "reverse-pairs": {
+    "difficulty": "Hard",
+    "id": "493",
+    "title": "Reverse Pairs",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Treap",
+        "slug": "treap"
+      }
+    ]
+  },
   "subsets-ii": {
     "difficulty": "Medium",
     "id": "90",
