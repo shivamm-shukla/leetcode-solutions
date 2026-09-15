@@ -214,5 +214,32 @@
         "slug": "combinatorics"
       }
     ]
+  },
+  "word-search": {
+    "difficulty": "Medium",
+    "id": "79",
+    "title": "Word Search",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
   }
 }

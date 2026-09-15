@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 12**
+**Total solved: 13**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 3 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 1 |
 <!-- PROGRESS:END -->
 
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| Array | 9 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [90](topics/array/subsets-ii/ "Subsets II"), [198](topics/array/house-robber/ "House Robber"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated") |
+| Array | 10 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [79](topics/array/word-search/ "Word Search"), [90](topics/array/subsets-ii/ "Subsets II"), [198](topics/array/house-robber/ "House Robber"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated") |
 | Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
 <!-- TOPICS:END -->

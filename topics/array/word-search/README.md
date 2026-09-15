@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, String, Backtracking, Depth-First Search, Matrix  
+**Problem:** [leetcode.com/problems/word-search](https://leetcode.com/problems/word-search/)  
+**Solution:** [`0079-word-search.java`](./0079-word-search.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/word-search">79. Word Search</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> grid of characters <code>board</code> and a string <code>word</code>, return <code>true</code> <em>if</em> <code>word</code> <em>exists in the grid</em>.</p>
 
 <p>The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.</p>
@@ -37,3 +44,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Could you use search pruning to make your solution faster with a larger <code>board</code>?</p>
+
+## Approach
+
+_Pending._
