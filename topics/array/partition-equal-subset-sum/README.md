@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack  
+**Problem:** [leetcode.com/problems/partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/)  
+**Solution:** [`0416-partition-equal-subset-sum.java`](./0416-partition-equal-subset-sum.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/partition-equal-subset-sum">416. Partition Equal Subset Sum</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <code>true</code> <em>if you can partition the array into two subsets such that the sum of the elements in both subsets is equal or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
@@ -24,3 +31,7 @@
 	<li><code>1 &lt;= nums.length &lt;= 200</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+## Approach
+
+_Pending._

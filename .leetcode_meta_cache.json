@@ -142,6 +142,29 @@
       }
     ]
   },
+  "partition-equal-subset-sum": {
+    "difficulty": "Medium",
+    "id": "416",
+    "title": "Partition Equal Subset Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "0-1 Knapsack",
+        "slug": "0-1-knapsack"
+      }
+    ]
+  },
   "reverse-pairs": {
     "difficulty": "Hard",
     "id": "493",
