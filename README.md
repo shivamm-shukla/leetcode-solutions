@@ -73,3 +73,23 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+<!---LeetCode Topics End-->
