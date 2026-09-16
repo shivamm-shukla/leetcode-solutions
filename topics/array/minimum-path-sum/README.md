@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Matrix  
+**Problem:** [leetcode.com/problems/minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/)  
+**Solution:** [`0064-minimum-path-sum.java`](./0064-minimum-path-sum.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/minimum-path-sum">64. Minimum Path Sum</a></h2><h3>Medium</h3><hr><p>Given a <code>m x n</code> <code>grid</code> filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.</p>
 
 <p><strong>Note:</strong> You can only move either down or right at any point in time.</p>
@@ -27,3 +34,7 @@
 	<li><code>1 &lt;= m, n &lt;= 200</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 200</code></li>
 </ul>
+
+## Approach
+
+_Pending._

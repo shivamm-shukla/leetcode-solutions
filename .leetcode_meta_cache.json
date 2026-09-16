@@ -123,6 +123,25 @@
       }
     ]
   },
+  "minimum-path-sum": {
+    "difficulty": "Medium",
+    "id": "64",
+    "title": "Minimum Path Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "reverse-pairs": {
     "difficulty": "Hard",
     "id": "493",
