@@ -215,6 +215,25 @@
       }
     ]
   },
+  "unique-paths-ii": {
+    "difficulty": "Medium",
+    "id": "63",
+    "title": "Unique Paths II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "word-search": {
     "difficulty": "Medium",
     "id": "79",
