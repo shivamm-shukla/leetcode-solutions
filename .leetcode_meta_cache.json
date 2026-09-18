@@ -142,6 +142,49 @@
       }
     ]
   },
+  "partition-array-into-two-arrays-to-minimize-sum-difference": {
+    "difficulty": "Hard",
+    "id": "2035",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Meet in the Middle",
+        "slug": "meet-in-the-middle"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  },
   "partition-equal-subset-sum": {
     "difficulty": "Medium",
     "id": "416",
