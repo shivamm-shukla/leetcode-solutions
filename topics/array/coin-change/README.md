@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack  
+**Problem:** [leetcode.com/problems/coin-change](https://leetcode.com/problems/coin-change/)  
+**Solution:** [`0322-coin-change.java`](./0322-coin-change.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/coin-change">322. Coin Change</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>amount</code> representing a total amount of money.</p>
 
 <p>Return <em>the fewest number of coins that you need to make up that amount</em>. If that amount of money cannot be made up by any combination of the coins, return <code>-1</code>.</p>
@@ -35,3 +42,7 @@
 	<li><code>1 &lt;= coins[i] &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>0 &lt;= amount &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+## Approach
+
+_Pending._

@@ -29,6 +29,33 @@
       }
     ]
   },
+  "coin-change": {
+    "difficulty": "Medium",
+    "id": "322",
+    "title": "Coin Change",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "Complete Knapsack",
+        "slug": "complete-knapsack"
+      }
+    ]
+  },
   "combination-sum": {
     "difficulty": "Medium",
     "id": "39",
