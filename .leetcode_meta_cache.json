@@ -131,6 +131,25 @@
       }
     ]
   },
+  "is-subsequence": {
+    "difficulty": "Easy",
+    "id": "392",
+    "title": "Is Subsequence",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "letter-combinations-of-a-phone-number": {
     "difficulty": "Medium",
     "id": "17",
