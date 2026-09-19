@@ -207,6 +207,21 @@
       }
     ]
   },
+  "minimum-insertion-steps-to-make-a-string-palindrome": {
+    "difficulty": "Hard",
+    "id": "1312",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "minimum-path-sum": {
     "difficulty": "Medium",
     "id": "64",

@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** String, Dynamic Programming  
+**Problem:** [leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)  
+**Solution:** [`1312-minimum-insertion-steps-to-make-a-string-palindrome.java`](./1312-minimum-insertion-steps-to-make-a-string-palindrome.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome">1437. Minimum Insertion Steps to Make a String Palindrome</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code>. In one step you can insert any character at any index of the string.</p>
 
 <p>Return <em>the minimum number of steps</em> to make <code>s</code>&nbsp;palindrome.</p>
@@ -36,3 +43,7 @@
 	<li><code>1 &lt;= s.length &lt;= 500</code></li>
 	<li><code>s</code> consists of lowercase English letters.</li>
 </ul>
+
+## Approach
+
+_Pending._
