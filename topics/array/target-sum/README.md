@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack  
+**Problem:** [leetcode.com/problems/target-sum](https://leetcode.com/problems/target-sum/)  
+**Solution:** [`0494-target-sum.java`](./0494-target-sum.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/target-sum">494. Target Sum</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>target</code>.</p>
 
 <p>You want to build an <strong>expression</strong> out of nums by adding one of the symbols <code>&#39;+&#39;</code> and <code>&#39;-&#39;</code> before each integer in nums and then concatenate all the integers.</p>
@@ -38,3 +45,7 @@
 	<li><code>0 &lt;= sum(nums[i]) &lt;= 1000</code></li>
 	<li><code>-1000 &lt;= target &lt;= 1000</code></li>
 </ul>
+
+## Approach
+
+_Pending._

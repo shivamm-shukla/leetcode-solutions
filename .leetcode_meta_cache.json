@@ -312,6 +312,33 @@
       }
     ]
   },
+  "target-sum": {
+    "difficulty": "Medium",
+    "id": "494",
+    "title": "Target Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "0-1 Knapsack",
+        "slug": "0-1-knapsack"
+      }
+    ]
+  },
   "two-sum": {
     "difficulty": "Easy",
     "id": "1",
