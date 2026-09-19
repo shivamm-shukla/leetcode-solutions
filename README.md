@@ -76,3 +76,19 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+<!---LeetCode Topics End-->
