@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** String, Dynamic Programming, Longest Common Subsequence  
+**Problem:** [leetcode.com/problems/delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings/)  
+**Solution:** [`0583-delete-operation-for-two-strings.java`](./0583-delete-operation-for-two-strings.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/delete-operation-for-two-strings">583. Delete Operation for Two Strings</a></h2><h3>Medium</h3><hr><p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of <strong>steps</strong> required to make</em> <code>word1</code> <em>and</em> <code>word2</code> <em>the same</em>.</p>
 
 <p>In one <strong>step</strong>, you can delete exactly one character in either string.</p>
@@ -25,3 +32,7 @@
 	<li><code>1 &lt;= word1.length, word2.length &lt;= 500</code></li>
 	<li><code>word1</code> and <code>word2</code> consist of only lowercase English letters.</li>
 </ul>
+
+## Approach
+
+_Pending._

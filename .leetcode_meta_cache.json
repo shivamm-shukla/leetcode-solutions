@@ -124,6 +124,25 @@
       }
     ]
   },
+  "delete-operation-for-two-strings": {
+    "difficulty": "Medium",
+    "id": "583",
+    "title": "Delete Operation for Two Strings",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence"
+      }
+    ]
+  },
   "house-robber": {
     "difficulty": "Medium",
     "id": "198",
