@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Knapsack Problem, Complete Knapsack  
+**Problem:** [leetcode.com/problems/coin-change-ii](https://leetcode.com/problems/coin-change-ii/)  
+**Solution:** [`0518-coin-change-ii.java`](./0518-coin-change-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/coin-change-ii">518. Coin Change II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>amount</code> representing a total amount of money.</p>
 
 <p>Return <em>the number of combinations that make up that amount</em>. If that amount of money cannot be made up by any combination of the coins, return <code>0</code>.</p>
@@ -43,3 +50,7 @@
 	<li>All the values of <code>coins</code> are <strong>unique</strong>.</li>
 	<li><code>0 &lt;= amount &lt;= 5000</code></li>
 </ul>
+
+## Approach
+
+_Pending._
