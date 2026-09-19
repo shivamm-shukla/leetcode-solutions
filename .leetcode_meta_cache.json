@@ -192,6 +192,21 @@
       }
     ]
   },
+  "longest-palindromic-subsequence": {
+    "difficulty": "Medium",
+    "id": "516",
+    "title": "Longest Palindromic Subsequence",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "minimum-path-sum": {
     "difficulty": "Medium",
     "id": "64",

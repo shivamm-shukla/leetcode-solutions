@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 21**
+**Total solved: 22**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 4 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 16 |
 | 🔴 Hard | 2 |
 <!-- PROGRESS:END -->
 
@@ -33,6 +33,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 | Array | 17 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [63](topics/array/unique-paths-ii/ "Unique Paths II"), [64](topics/array/minimum-path-sum/ "Minimum Path Sum"), [79](topics/array/word-search/ "Word Search"), [90](topics/array/subsets-ii/ "Subsets II"), [198](topics/array/house-robber/ "House Robber"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [322](topics/array/coin-change/ "Coin Change"), [416](topics/array/partition-equal-subset-sum/ "Partition Equal Subset Sum"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [494](topics/array/target-sum/ "Target Sum"), [518](topics/array/coin-change-ii/ "Coin Change II"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated"), [2035](topics/array/partition-array-into-two-arrays-to-minimize-sum-difference/ "Partition Array Into Two Arrays to Minimize Sum Difference") |
 | Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
+| String | 1 | [516](topics/string/longest-palindromic-subsequence/ "Longest Palindromic Subsequence") |
 | Two Pointers | 1 | [392](topics/two-pointers/is-subsequence/ "Is Subsequence") |
 <!-- TOPICS:END -->
 
@@ -74,15 +75,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0516-longest-palindromic-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0516-longest-palindromic-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
-<!---LeetCode Topics End-->
