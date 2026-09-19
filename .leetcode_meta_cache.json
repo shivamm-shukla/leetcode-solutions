@@ -226,6 +226,29 @@
       }
     ]
   },
+  "number-of-provinces": {
+    "difficulty": "Medium",
+    "id": "547",
+    "title": "Number of Provinces",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
   "partition-array-into-two-arrays-to-minimize-sum-difference": {
     "difficulty": "Hard",
     "id": "2035",
