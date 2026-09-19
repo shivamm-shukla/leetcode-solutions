@@ -74,3 +74,23 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0518-coin-change-ii) |
+<!---LeetCode Topics End-->
