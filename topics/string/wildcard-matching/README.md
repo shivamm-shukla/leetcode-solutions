@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** String, Dynamic Programming, Greedy, Recursion  
+**Problem:** [leetcode.com/problems/wildcard-matching](https://leetcode.com/problems/wildcard-matching/)  
+**Solution:** [`0044-wildcard-matching.java`](./0044-wildcard-matching.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/wildcard-matching">44. Wildcard Matching</a></h2><h3>Hard</h3><hr><p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement wildcard pattern matching with support for <code>&#39;?&#39;</code> and <code>&#39;*&#39;</code> where:</p>
 
 <ul>
@@ -40,3 +47,7 @@
 	<li><code>s</code> contains only lowercase English letters.</li>
 	<li><code>p</code> contains only lowercase English letters, <code>&#39;?&#39;</code> or <code>&#39;*&#39;</code>.</li>
 </ul>
+
+## Approach
+
+_Pending._
