@@ -14,6 +14,25 @@
       }
     ]
   },
+  "best-time-to-buy-and-sell-stock-ii": {
+    "difficulty": "Medium",
+    "id": "122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
   "check-if-array-is-sorted-and-rotated": {
     "difficulty": "Easy",
     "id": "1752",

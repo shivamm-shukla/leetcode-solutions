@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Greedy  
+**Problem:** [leetcode.com/problems/best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  
+**Solution:** [`0122-best-time-to-buy-and-sell-stock-ii.java`](./0122-best-time-to-buy-and-sell-stock-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">122. Best Time to Buy and Sell Stock II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
 <p>On each day, you may decide to buy and/or sell the stock. You can only hold <strong>at most one</strong> share of the stock at any time. However, you can sell and buy the stock multiple times on the <strong>same day</strong>, ensuring you never hold more than one share of the stock.</p>
@@ -39,3 +46,7 @@ Total profit is 4.
 	<li><code>1 &lt;= prices.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+## Approach
+
+_Pending._
