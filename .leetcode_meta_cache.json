@@ -143,6 +143,21 @@
       }
     ]
   },
+  "distinct-subsequences": {
+    "difficulty": "Hard",
+    "id": "115",
+    "title": "Distinct Subsequences",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "house-robber": {
     "difficulty": "Medium",
     "id": "198",
