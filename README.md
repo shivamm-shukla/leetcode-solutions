@@ -76,3 +76,23 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0044-wildcard-matching) |
+<!---LeetCode Topics End-->
