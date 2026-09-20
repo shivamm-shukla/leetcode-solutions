@@ -1,24 +1,45 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
+//  Removing 2 sized arr with variables
 
-        int[] ahead = new int[2];
-        int[] curr = new int[2];
-
-    // not initialising ahead with 0, 0 bcoz in java by default all the values are zero during creation.
+        int notBuyAhead = 0;
+        int buyAhead = 0;
+        int notBuyCurr = 0;
+        int buyCurr = 0;
 
         for (int i = n - 1; i >= 0; i--){
                
-                curr[1] = Math.max(ahead[0] - prices[i], ahead[1]);
+                buyCurr = Math.max(notBuyAhead - prices[i], buyAhead);
             
-                curr[0] = Math.max(ahead[1] + prices[i], ahead[0]);
+                notBuyCurr = Math.max(buyAhead + prices[i], notBuyAhead);
 
-                ahead[0] = curr[0];
-                ahead[1] = curr[1];
+                notBuyAhead = notBuyCurr;
+                buyAhead = buyCurr;
             }
             
 
-        return ahead[1];
+        return buyAhead;
+
+// Space optimized verison
+
+        // int[] ahead = new int[2];
+        // int[] curr = new int[2];
+
+        // // not initialising ahead with 0, 0 bcoz in java by default all the values are zero during creation.
+
+        // for (int i = n - 1; i >= 0; i--){
+               
+        //         curr[1] = Math.max(ahead[0] - prices[i], ahead[1]);
+            
+        //         curr[0] = Math.max(ahead[1] + prices[i], ahead[0]);
+
+        //         ahead[0] = curr[0];
+        //         ahead[1] = curr[1];
+        //     }
+            
+
+        // return ahead[1];
 
 
 // Iterative version
