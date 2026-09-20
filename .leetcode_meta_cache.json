@@ -388,6 +388,25 @@
       }
     ]
   },
+  "shortest-common-supersequence": {
+    "difficulty": "Hard",
+    "id": "1092",
+    "title": "Shortest Common Supersequence ",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence"
+      }
+    ]
+  },
   "subsets-ii": {
     "difficulty": "Medium",
     "id": "90",
