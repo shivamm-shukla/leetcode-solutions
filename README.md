@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 27**
+**Total solved: 28**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 4 |
-| 🟡 Medium | 18 |
+| 🟡 Medium | 19 |
 | 🔴 Hard | 5 |
 <!-- PROGRESS:END -->
 
@@ -31,7 +31,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 | Topic | Solved | Problems |
 |---|---|---|
 | Array | 17 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [63](topics/array/unique-paths-ii/ "Unique Paths II"), [64](topics/array/minimum-path-sum/ "Minimum Path Sum"), [79](topics/array/word-search/ "Word Search"), [90](topics/array/subsets-ii/ "Subsets II"), [198](topics/array/house-robber/ "House Robber"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [322](topics/array/coin-change/ "Coin Change"), [416](topics/array/partition-equal-subset-sum/ "Partition Equal Subset Sum"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [494](topics/array/target-sum/ "Target Sum"), [518](topics/array/coin-change-ii/ "Coin Change II"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated"), [2035](topics/array/partition-array-into-two-arrays-to-minimize-sum-difference/ "Partition Array Into Two Arrays to Minimize Sum Difference") |
-| String | 5 | [115](topics/string/distinct-subsequences/ "Distinct Subsequences"), [516](topics/string/longest-palindromic-subsequence/ "Longest Palindromic Subsequence"), [583](topics/string/delete-operation-for-two-strings/ "Delete Operation for Two Strings"), [1092](topics/string/shortest-common-supersequence/ "Shortest Common Supersequence "), [1312](topics/string/minimum-insertion-steps-to-make-a-string-palindrome/ "Minimum Insertion Steps to Make a String Palindrome") |
+| String | 6 | [72](topics/string/edit-distance/ "Edit Distance"), [115](topics/string/distinct-subsequences/ "Distinct Subsequences"), [516](topics/string/longest-palindromic-subsequence/ "Longest Palindromic Subsequence"), [583](topics/string/delete-operation-for-two-strings/ "Delete Operation for Two Strings"), [1092](topics/string/shortest-common-supersequence/ "Shortest Common Supersequence "), [1312](topics/string/minimum-insertion-steps-to-make-a-string-palindrome/ "Minimum Insertion Steps to Make a String Palindrome") |
 | Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
 | Depth First Search | 1 | [547](topics/depth-first-search/number-of-provinces/ "Number of Provinces") |
 | Hash Table | 1 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number") |
@@ -76,15 +76,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0072-edit-distance](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0072-edit-distance) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0072-edit-distance](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0072-edit-distance) |
-<!---LeetCode Topics End-->

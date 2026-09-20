@@ -158,6 +158,21 @@
       }
     ]
   },
+  "edit-distance": {
+    "difficulty": "Medium",
+    "id": "72",
+    "title": "Edit Distance",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "house-robber": {
     "difficulty": "Medium",
     "id": "198",
