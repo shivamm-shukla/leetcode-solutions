@@ -76,3 +76,23 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0542-01-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0542-01-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0542-01-matrix) |
+<!---LeetCode Topics End-->
