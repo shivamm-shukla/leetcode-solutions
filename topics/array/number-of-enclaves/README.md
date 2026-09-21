@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix  
+**Problem:** [leetcode.com/problems/number-of-enclaves](https://leetcode.com/problems/number-of-enclaves/)  
+**Solution:** [`1020-number-of-enclaves.java`](./1020-number-of-enclaves.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/number-of-enclaves">1073. Number of Enclaves</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> binary matrix <code>grid</code>, where <code>0</code> represents a sea cell and <code>1</code> represents a land cell.</p>
 
 <p>A <strong>move</strong> consists of walking from one land cell to another adjacent (<strong>4-directionally</strong>) land cell or walking off the boundary of the <code>grid</code>.</p>
@@ -30,3 +37,7 @@
 	<li><code>1 &lt;= m, n &lt;= 500</code></li>
 	<li><code>grid[i][j]</code> is either <code>0</code> or <code>1</code>.</li>
 </ul>
+
+## Approach
+
+_Pending._

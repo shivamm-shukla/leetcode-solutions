@@ -347,6 +347,33 @@
       }
     ]
   },
+  "number-of-enclaves": {
+    "difficulty": "Medium",
+    "id": "1020",
+    "title": "Number of Enclaves",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "number-of-islands": {
     "difficulty": "Medium",
     "id": "200",
