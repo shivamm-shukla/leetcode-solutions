@@ -529,6 +529,25 @@
       }
     ]
   },
+  "rotting-oranges": {
+    "difficulty": "Medium",
+    "id": "994",
+    "title": "Rotting Oranges",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "shortest-common-supersequence": {
     "difficulty": "Hard",
     "id": "1092",

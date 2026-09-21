@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Breadth-First Search, Matrix  
+**Problem:** [leetcode.com/problems/rotting-oranges](https://leetcode.com/problems/rotting-oranges/)  
+**Solution:** [`0994-rotting-oranges.java`](./0994-rotting-oranges.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/rotting-oranges">1036. Rotting Oranges</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> <code>grid</code> where each cell can have one of three values:</p>
 
 <ul>
@@ -43,3 +50,7 @@
 	<li><code>1 &lt;= m, n &lt;= 10</code></li>
 	<li><code>grid[i][j]</code> is <code>0</code>, <code>1</code>, or <code>2</code>.</li>
 </ul>
+
+## Approach
+
+_Pending._
