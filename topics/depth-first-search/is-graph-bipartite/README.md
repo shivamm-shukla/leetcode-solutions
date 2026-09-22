@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, Bipartite Graph  
+**Problem:** [leetcode.com/problems/is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite/)  
+**Solution:** [`0785-is-graph-bipartite.java`](./0785-is-graph-bipartite.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/is-graph-bipartite">801. Is Graph Bipartite?</a></h2><h3>Medium</h3><hr><p>There is an <strong>undirected</strong> graph with <code>n</code> nodes, where each node is numbered between <code>0</code> and <code>n - 1</code>. You are given a 2D array <code>graph</code>, where <code>graph[u]</code> is an array of nodes that node <code>u</code> is adjacent to. More formally, for each <code>v</code> in <code>graph[u]</code>, there is an undirected edge between node <code>u</code> and node <code>v</code>. The graph has the following properties:</p>
 
 <ul>
@@ -38,3 +45,7 @@
 	<li>All the values of <code>graph[u]</code> are <strong>unique</strong>.</li>
 	<li>If <code>graph[u]</code> contains <code>v</code>, then <code>graph[v]</code> contains <code>u</code>.</li>
 </ul>
+
+## Approach
+
+_Pending._

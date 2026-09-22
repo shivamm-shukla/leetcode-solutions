@@ -302,6 +302,37 @@
       }
     ]
   },
+  "is-graph-bipartite": {
+    "difficulty": "Medium",
+    "id": "785",
+    "title": "Is Graph Bipartite?",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Graph Coloring",
+        "slug": "graph-coloring"
+      },
+      {
+        "name": "Bipartite Graph",
+        "slug": "bipartite-graph"
+      }
+    ]
+  },
   "is-subsequence": {
     "difficulty": "Easy",
     "id": "392",
