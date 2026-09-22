@@ -230,6 +230,25 @@
       }
     ]
   },
+  "find-the-town-judge": {
+    "difficulty": "Easy",
+    "id": "997",
+    "title": "Find the Town Judge",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
   "flood-fill": {
     "difficulty": "Easy",
     "id": "733",
