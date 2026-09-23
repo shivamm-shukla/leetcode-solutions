@@ -76,3 +76,27 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## String
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+<!---LeetCode Topics End-->
