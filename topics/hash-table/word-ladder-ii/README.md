@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search  
+**Problem:** [leetcode.com/problems/word-ladder-ii](https://leetcode.com/problems/word-ladder-ii/)  
+**Solution:** [`0126-word-ladder-ii.java`](./0126-word-ladder-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/word-ladder-ii">126. Word Ladder II</a></h2><h3>Hard</h3><hr><p>A <strong>transformation sequence</strong> from word <code>beginWord</code> to word <code>endWord</code> using a dictionary <code>wordList</code> is a sequence of words <code>beginWord -&gt; s<sub>1</sub> -&gt; s<sub>2</sub> -&gt; ... -&gt; s<sub>k</sub></code> such that:</p>
 
 <ul>
@@ -40,3 +47,7 @@
 	<li>All the words in <code>wordList</code> are <strong>unique</strong>.</li>
 	<li>The <strong>sum</strong> of all shortest transformation sequences does not exceed <code>10<sup>5</sup></code>.</li>
 </ul>
+
+## Approach
+
+_Pending._
