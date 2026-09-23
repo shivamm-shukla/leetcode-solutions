@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** Hash Table, String, Breadth-First Search, Bidirectional Search  
+**Problem:** [leetcode.com/problems/word-ladder](https://leetcode.com/problems/word-ladder/)  
+**Solution:** [`0127-word-ladder.java`](./0127-word-ladder.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/word-ladder">127. Word Ladder</a></h2><h3>Hard</h3><hr><p>A <strong>transformation sequence</strong> from word <code>beginWord</code> to word <code>endWord</code> using a dictionary <code>wordList</code> is a sequence of words <code>beginWord -&gt; s<sub>1</sub> -&gt; s<sub>2</sub> -&gt; ... -&gt; s<sub>k</sub></code> such that:</p>
 
 <ul>
@@ -37,3 +44,7 @@
 	<li><code>beginWord != endWord</code></li>
 	<li>All the words in <code>wordList</code> are <strong>unique</strong>.</li>
 </ul>
+
+## Approach
+
+_Pending._

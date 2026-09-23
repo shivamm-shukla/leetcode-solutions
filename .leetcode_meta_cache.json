@@ -843,6 +843,29 @@
       }
     ]
   },
+  "word-ladder": {
+    "difficulty": "Hard",
+    "id": "127",
+    "title": "Word Ladder",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Bidirectional Search",
+        "slug": "bidirectional-search"
+      }
+    ]
+  },
   "word-search": {
     "difficulty": "Medium",
     "id": "79",
