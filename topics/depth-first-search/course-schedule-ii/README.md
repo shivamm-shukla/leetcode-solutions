@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort  
+**Problem:** [leetcode.com/problems/course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)  
+**Solution:** [`0210-course-schedule-ii.java`](./0210-course-schedule-ii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/course-schedule-ii">210. Course Schedule II</a></h2><h3>Medium</h3><hr><p>There are a total of <code>numCourses</code> courses you have to take, labeled from <code>0</code> to <code>numCourses - 1</code>. You are given an array <code>prerequisites</code> where <code>prerequisites[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that you <strong>must</strong> take course <code>b<sub>i</sub></code> first if you want to take course <code>a<sub>i</sub></code>.</p>
 
 <ul>
@@ -42,3 +49,7 @@ So one correct course order is [0,1,2,3]. Another correct ordering is [0,2,1,3].
 	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
 	<li>All the pairs <code>[a<sub>i</sub>, b<sub>i</sub>]</code> are <strong>distinct</strong>.</li>
 </ul>
+
+## Approach
+
+_Pending._

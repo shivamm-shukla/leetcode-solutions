@@ -208,6 +208,29 @@
       }
     ]
   },
+  "course-schedule-ii": {
+    "difficulty": "Medium",
+    "id": "210",
+    "title": "Course Schedule II",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      }
+    ]
+  },
   "delete-operation-for-two-strings": {
     "difficulty": "Medium",
     "id": "583",
