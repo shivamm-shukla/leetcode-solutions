@@ -181,6 +181,33 @@
       }
     ]
   },
+  "course-schedule": {
+    "difficulty": "Medium",
+    "id": "207",
+    "title": "Course Schedule",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Directed Acyclic Graph",
+        "slug": "directed-acyclic-graph"
+      }
+    ]
+  },
   "delete-operation-for-two-strings": {
     "difficulty": "Medium",
     "id": "583",

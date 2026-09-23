@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph  
+**Problem:** [leetcode.com/problems/course-schedule](https://leetcode.com/problems/course-schedule/)  
+**Solution:** [`0207-course-schedule.java`](./0207-course-schedule.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/course-schedule">207. Course Schedule</a></h2><h3>Medium</h3><hr><p>There are a total of <code>numCourses</code> courses you have to take, labeled from <code>0</code> to <code>numCourses - 1</code>. You are given an array <code>prerequisites</code> where <code>prerequisites[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that you <strong>must</strong> take course <code>b<sub>i</sub></code> first if you want to take course <code>a<sub>i</sub></code>.</p>
 
 <ul>
@@ -35,3 +42,7 @@ To take course 1 you should have finished course 0, and to take course 0 you sho
 	<li><code>0 &lt;= a<sub>i</sub>, b<sub>i</sub> &lt; numCourses</code></li>
 	<li>All the pairs prerequisites[i] are <strong>unique</strong>.</li>
 </ul>
+
+## Approach
+
+_Pending._
