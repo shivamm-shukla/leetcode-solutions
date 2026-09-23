@@ -76,3 +76,31 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+<!---LeetCode Topics End-->
