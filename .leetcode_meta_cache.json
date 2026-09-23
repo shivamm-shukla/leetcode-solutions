@@ -257,6 +257,37 @@
       }
     ]
   },
+  "find-eventual-safe-states": {
+    "difficulty": "Medium",
+    "id": "802",
+    "title": "Find Eventual Safe States",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Kosaraju's Algorithm",
+        "slug": "kosarajus-algorithm"
+      },
+      {
+        "name": "Tarjan's SCC Algorithm",
+        "slug": "tarjans-scc-algorithm"
+      }
+    ]
+  },
   "find-the-town-judge": {
     "difficulty": "Easy",
     "id": "997",
