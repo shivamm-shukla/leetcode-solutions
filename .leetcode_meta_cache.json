@@ -342,6 +342,37 @@
       }
     ]
   },
+  "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance": {
+    "difficulty": "Medium",
+    "id": "1334",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      },
+      {
+        "name": "Bellman–Ford Algorithm",
+        "slug": "bellman-ford-algorithm"
+      },
+      {
+        "name": "Floyd–Warshall Algorithm",
+        "slug": "floyd-warshall-algorithm"
+      }
+    ]
+  },
   "find-the-town-judge": {
     "difficulty": "Easy",
     "id": "997",
