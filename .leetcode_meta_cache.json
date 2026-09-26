@@ -609,6 +609,33 @@
       }
     ]
   },
+  "number-of-ways-to-arrive-at-destination": {
+    "difficulty": "Medium",
+    "id": "1976",
+    "title": "Number of Ways to Arrive at Destination",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
   "partition-array-into-two-arrays-to-minimize-sum-difference": {
     "difficulty": "Hard",
     "id": "2035",

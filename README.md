@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 46**
+**Total solved: 47**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 31 |
+| 🟡 Medium | 32 |
 | 🔴 Hard | 8 |
 <!-- PROGRESS:END -->
 
@@ -34,8 +34,8 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 | String | 7 | [44](topics/string/wildcard-matching/ "Wildcard Matching"), [72](topics/string/edit-distance/ "Edit Distance"), [115](topics/string/distinct-subsequences/ "Distinct Subsequences"), [516](topics/string/longest-palindromic-subsequence/ "Longest Palindromic Subsequence"), [583](topics/string/delete-operation-for-two-strings/ "Delete Operation for Two Strings"), [1092](topics/string/shortest-common-supersequence/ "Shortest Common Supersequence "), [1312](topics/string/minimum-insertion-steps-to-make-a-string-palindrome/ "Minimum Insertion Steps to Make a String Palindrome") |
 | Depth First Search | 5 | [207](topics/depth-first-search/course-schedule/ "Course Schedule"), [210](topics/depth-first-search/course-schedule-ii/ "Course Schedule II"), [547](topics/depth-first-search/number-of-provinces/ "Number of Provinces"), [785](topics/depth-first-search/is-graph-bipartite/ "Is Graph Bipartite?"), [802](topics/depth-first-search/find-eventual-safe-states/ "Find Eventual Safe States") |
 | Hash Table | 3 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number"), [126](topics/hash-table/word-ladder-ii/ "Word Ladder II"), [127](topics/hash-table/word-ladder/ "Word Ladder") |
+| Dynamic Programming | 2 | [787](topics/dynamic-programming/cheapest-flights-within-k-stops/ "Cheapest Flights Within K Stops"), [1976](topics/dynamic-programming/number-of-ways-to-arrive-at-destination/ "Number of Ways to Arrive at Destination") |
 | Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
-| Dynamic Programming | 1 | [787](topics/dynamic-programming/cheapest-flights-within-k-stops/ "Cheapest Flights Within K Stops") |
 | Two Pointers | 1 | [392](topics/two-pointers/is-subsequence/ "Is Subsequence") |
 <!-- TOPICS:END -->
 
@@ -77,27 +77,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Dynamic Programming
-|  |
-| ------- |
-| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
-## Graph Theory
-|  |
-| ------- |
-| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
-## Topological Sort
-|  |
-| ------- |
-| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
-## Shortest Path
-|  |
-| ------- |
-| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
-## Dijkstra's Algorithm
-|  |
-| ------- |
-| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
-<!---LeetCode Topics End-->
