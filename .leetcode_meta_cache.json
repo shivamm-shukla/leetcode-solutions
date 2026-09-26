@@ -563,6 +563,37 @@
       }
     ]
   },
+  "network-delay-time": {
+    "difficulty": "Medium",
+    "id": "743",
+    "title": "Network Delay Time",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
   "number-of-enclaves": {
     "difficulty": "Medium",
     "id": "1020",
