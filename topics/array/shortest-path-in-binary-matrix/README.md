@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Breadth-First Search, Matrix  
+**Problem:** [leetcode.com/problems/shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  
+**Solution:** [`1091-shortest-path-in-binary-matrix.java`](./1091-shortest-path-in-binary-matrix.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix">1171. Shortest Path in Binary Matrix</a></h2><h3>Medium</h3><hr><p>Given an <code>n x n</code> binary matrix <code>grid</code>, return <em>the length of the shortest <strong>clear path</strong> in the matrix</em>. If there is no clear path, return <code>-1</code>.</p>
 
 <p>A <strong>clear path</strong> in a binary matrix is a path from the <strong>top-left</strong> cell (i.e., <code>(0, 0)</code>) to the <strong>bottom-right</strong> cell (i.e., <code>(n - 1, n - 1)</code>) such that:</p>
@@ -40,3 +47,7 @@
 	<li><code>1 &lt;= n &lt;= 100</code></li>
 	<li><code>grid[i][j] is 0 or 1</code></li>
 </ul>
+
+## Approach
+
+_Pending._

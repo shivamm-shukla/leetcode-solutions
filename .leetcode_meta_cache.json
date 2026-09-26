@@ -721,6 +721,25 @@
       }
     ]
   },
+  "shortest-path-in-binary-matrix": {
+    "difficulty": "Medium",
+    "id": "1091",
+    "title": "Shortest Path in Binary Matrix",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "subsets-ii": {
     "difficulty": "Medium",
     "id": "90",
