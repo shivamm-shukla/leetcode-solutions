@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Dijkstra's Algorithm  
+**Problem:** [leetcode.com/problems/path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort/)  
+**Solution:** [`1631-path-with-minimum-effort.java`](./1631-path-with-minimum-effort.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/path-with-minimum-effort">1753. Path With Minimum Effort</a></h2><h3>Medium</h3><hr><p>You are a hiker preparing for an upcoming hike. You are given <code>heights</code>, a 2D array of size <code>rows x columns</code>, where <code>heights[row][col]</code> represents the height of cell <code>(row, col)</code>. You are situated in the top-left cell, <code>(0, 0)</code>, and you hope to travel to the bottom-right cell, <code>(rows-1, columns-1)</code> (i.e.,&nbsp;<strong>0-indexed</strong>). You can move <strong>up</strong>, <strong>down</strong>, <strong>left</strong>, or <strong>right</strong>, and you wish to find a route that requires the minimum <strong>effort</strong>.</p>
 
 <p>A route&#39;s <strong>effort</strong> is the <strong>maximum absolute difference</strong><strong> </strong>in heights between two consecutive cells of the route.</p>
@@ -43,3 +50,7 @@ This is better than the route of [1,2,2,2,5], where the maximum absolute differe
 	<li><code>1 &lt;= rows, columns &lt;= 100</code></li>
 	<li><code>1 &lt;= heights[i][j] &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+## Approach
+
+_Pending._

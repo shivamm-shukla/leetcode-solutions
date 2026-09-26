@@ -644,6 +644,45 @@
       }
     ]
   },
+  "path-with-minimum-effort": {
+    "difficulty": "Medium",
+    "id": "1631",
+    "title": "Path With Minimum Effort",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
   "reverse-pairs": {
     "difficulty": "Hard",
     "id": "493",
