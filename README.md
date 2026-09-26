@@ -77,3 +77,31 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0743-network-delay-time) |
+<!---LeetCode Topics End-->
