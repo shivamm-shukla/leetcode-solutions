@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 45**
+**Total solved: 46**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 30 |
+| 🟡 Medium | 31 |
 | 🔴 Hard | 8 |
 <!-- PROGRESS:END -->
 
@@ -35,6 +35,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 | Depth First Search | 5 | [207](topics/depth-first-search/course-schedule/ "Course Schedule"), [210](topics/depth-first-search/course-schedule-ii/ "Course Schedule II"), [547](topics/depth-first-search/number-of-provinces/ "Number of Provinces"), [785](topics/depth-first-search/is-graph-bipartite/ "Is Graph Bipartite?"), [802](topics/depth-first-search/find-eventual-safe-states/ "Find Eventual Safe States") |
 | Hash Table | 3 | [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number"), [126](topics/hash-table/word-ladder-ii/ "Word Ladder II"), [127](topics/hash-table/word-ladder/ "Word Ladder") |
 | Math | 2 | [62](topics/math/unique-paths/ "Unique Paths"), [70](topics/math/climbing-stairs/ "Climbing Stairs") |
+| Dynamic Programming | 1 | [787](topics/dynamic-programming/cheapest-flights-within-k-stops/ "Cheapest Flights Within K Stops") |
 | Two Pointers | 1 | [392](topics/two-pointers/is-subsequence/ "Is Subsequence") |
 <!-- TOPICS:END -->
 
@@ -76,31 +77,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Dynamic Programming
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-## Depth-First Search
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-## Graph Theory
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-## Shortest Path
-|  |
-| ------- |
-| [0787-cheapest-flights-within-k-stops](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
-<!---LeetCode Topics End-->

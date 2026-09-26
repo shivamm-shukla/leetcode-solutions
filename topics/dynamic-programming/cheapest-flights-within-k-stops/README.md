@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path  
+**Problem:** [leetcode.com/problems/cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  
+**Solution:** [`0787-cheapest-flights-within-k-stops.java`](./0787-cheapest-flights-within-k-stops.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops">803. Cheapest Flights Within K Stops</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cities connected by some number of flights. You are given an array <code>flights</code> where <code>flights[i] = [from<sub>i</sub>, to<sub>i</sub>, price<sub>i</sub>]</code> indicates that there is a flight from city <code>from<sub>i</sub></code> to city <code>to<sub>i</sub></code> with cost <code>price<sub>i</sub></code>.</p>
 
 <p>You are also given three integers <code>src</code>, <code>dst</code>, and <code>k</code>, return <em><strong>the cheapest price</strong> from </em><code>src</code><em> to </em><code>dst</code><em> with at most </em><code>k</code><em> stops. </em>If there is no such route, return<em> </em><code>-1</code>.</p>
@@ -48,3 +55,7 @@ The optimal path with no stops from city 0 to 2 is marked in red and has cost 50
 	<li><code>0 &lt;= src, dst, k &lt; n</code></li>
 	<li><code>src != dst</code></li>
 </ul>
+
+## Approach
+
+_Pending._

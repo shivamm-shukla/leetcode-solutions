@@ -56,6 +56,37 @@
       }
     ]
   },
+  "cheapest-flights-within-k-stops": {
+    "difficulty": "Medium",
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  },
   "check-if-array-is-sorted-and-rotated": {
     "difficulty": "Easy",
     "id": "1752",
