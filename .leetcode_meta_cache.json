@@ -564,6 +564,33 @@
       }
     ]
   },
+  "making-a-large-island": {
+    "difficulty": "Hard",
+    "id": "827",
+    "title": "Making A Large Island",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
   "minimum-insertion-steps-to-make-a-string-palindrome": {
     "difficulty": "Hard",
     "id": "1312",
