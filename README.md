@@ -84,6 +84,7 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0827-making-a-large-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,16 +97,23 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0827-making-a-large-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0827-making-a-large-island) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0721-accounts-merge) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
