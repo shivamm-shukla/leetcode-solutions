@@ -648,6 +648,29 @@
       }
     ]
   },
+  "number-of-operations-to-make-network-connected": {
+    "difficulty": "Medium",
+    "id": "1319",
+    "title": "Number of Operations to Make Network Connected",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
   "number-of-provinces": {
     "difficulty": "Medium",
     "id": "547",
