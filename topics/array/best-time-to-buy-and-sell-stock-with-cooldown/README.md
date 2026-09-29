@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming  
+**Problem:** [leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
+**Solution:** [`0309-best-time-to-buy-and-sell-stock-with-cooldown.java`](./0309-best-time-to-buy-and-sell-stock-with-cooldown.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown">309. Best Time to Buy and Sell Stock with Cooldown</a></h2><h3>Medium</h3><hr><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
 <p>Find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times) with the following restrictions:</p>
@@ -31,3 +38,7 @@
 	<li><code>1 &lt;= prices.length &lt;= 5000</code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 1000</code></li>
 </ul>
+
+## Approach
+
+_Pending._

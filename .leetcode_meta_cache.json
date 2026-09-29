@@ -121,6 +121,21 @@
       }
     ]
   },
+  "best-time-to-buy-and-sell-stock-with-cooldown": {
+    "difficulty": "Medium",
+    "id": "309",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "best-time-to-buy-and-sell-stock-with-transaction-fee": {
     "difficulty": "Medium",
     "id": "714",
