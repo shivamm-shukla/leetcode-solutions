@@ -84,8 +84,14 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
