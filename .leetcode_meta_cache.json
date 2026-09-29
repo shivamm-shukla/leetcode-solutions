@@ -594,6 +594,29 @@
       }
     ]
   },
+  "largest-divisible-subset": {
+    "difficulty": "Medium",
+    "id": "368",
+    "title": "Largest Divisible Subset",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "letter-combinations-of-a-phone-number": {
     "difficulty": "Medium",
     "id": "17",

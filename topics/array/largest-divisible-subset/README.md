@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Math, Dynamic Programming, Sorting  
+**Problem:** [leetcode.com/problems/largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset/)  
+**Solution:** [`0368-largest-divisible-subset.java`](./0368-largest-divisible-subset.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/largest-divisible-subset">368. Largest Divisible Subset</a></h2><h3>Medium</h3><hr><p>Given a set of <strong>distinct</strong> positive integers <code>nums</code>, return the largest subset <code>answer</code> such that every pair <code>(answer[i], answer[j])</code> of elements in this subset satisfies:</p>
 
 <ul>
@@ -31,3 +38,7 @@
 	<li><code>1 &lt;= nums[i] &lt;= 2 * 10<sup>9</sup></code></li>
 	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
 </ul>
+
+## Approach
+
+_Pending._
