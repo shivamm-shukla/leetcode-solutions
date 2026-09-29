@@ -121,6 +121,25 @@
       }
     ]
   },
+  "best-time-to-buy-and-sell-stock-with-transaction-fee": {
+    "difficulty": "Medium",
+    "id": "714",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
   "cheapest-flights-within-k-stops": {
     "difficulty": "Medium",
     "id": "787",

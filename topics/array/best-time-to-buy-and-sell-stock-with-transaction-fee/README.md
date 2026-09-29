@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Greedy  
+**Problem:** [leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)  
+**Solution:** [`0714-best-time-to-buy-and-sell-stock-with-transaction-fee.java`](./0714-best-time-to-buy-and-sell-stock-with-transaction-fee.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee">714. Best Time to Buy and Sell Stock with Transaction Fee</a></h2><h3>Medium</h3><hr><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day, and an integer <code>fee</code> representing a transaction fee.</p>
 
 <p>Find the maximum profit you can achieve. You may complete as many transactions as you like, but you need to pay the transaction fee for each transaction.</p>
@@ -38,3 +45,7 @@ The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
 	<li><code>1 &lt;= prices[i] &lt; 5 * 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= fee &lt; 5 * 10<sup>4</sup></code></li>
 </ul>
+
+## Approach
+
+_Pending._
