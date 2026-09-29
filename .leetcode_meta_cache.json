@@ -613,6 +613,29 @@
       }
     ]
   },
+  "longest-increasing-subsequence": {
+    "difficulty": "Medium",
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence"
+      }
+    ]
+  },
   "longest-palindromic-subsequence": {
     "difficulty": "Medium",
     "id": "516",

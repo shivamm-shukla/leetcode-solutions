@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence  
+**Problem:** [leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  
+**Solution:** [`0300-longest-increasing-subsequence.java`](./0300-longest-increasing-subsequence.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/longest-increasing-subsequence">300. Longest Increasing Subsequence</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the length of the longest <strong>strictly increasing </strong></em><span data-keyword="subsequence-array"><em><strong>subsequence</strong></em></span>.</p>
 
 <p>&nbsp;</p>
@@ -33,3 +40,7 @@
 
 <p>&nbsp;</p>
 <p><b>Follow up:</b>&nbsp;Can you come up with an algorithm that runs in&nbsp;<code>O(n log(n))</code> time complexity?</p>
+
+## Approach
+
+_Pending._
