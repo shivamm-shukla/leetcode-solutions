@@ -91,6 +91,21 @@
       }
     ]
   },
+  "best-time-to-buy-and-sell-stock-iii": {
+    "difficulty": "Hard",
+    "id": "123",
+    "title": "Best Time to Buy and Sell Stock III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "cheapest-flights-within-k-stops": {
     "difficulty": "Medium",
     "id": "787",

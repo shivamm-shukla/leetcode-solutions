@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** Array, Dynamic Programming  
+**Problem:** [leetcode.com/problems/best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)  
+**Solution:** [`0123-best-time-to-buy-and-sell-stock-iii.java`](./0123-best-time-to-buy-and-sell-stock-iii.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii">123. Best Time to Buy and Sell Stock III</a></h2><h3>Hard</h3><hr><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
 <p>Find the maximum profit you can achieve. You may complete <strong>at most two transactions</strong>.</p>
@@ -37,3 +44,7 @@ Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are 
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+## Approach
+
+_Pending._
