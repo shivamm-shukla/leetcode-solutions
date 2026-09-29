@@ -106,6 +106,21 @@
       }
     ]
   },
+  "best-time-to-buy-and-sell-stock-iv": {
+    "difficulty": "Hard",
+    "id": "188",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
   "cheapest-flights-within-k-stops": {
     "difficulty": "Medium",
     "id": "787",

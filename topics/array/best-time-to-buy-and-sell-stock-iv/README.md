@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** Array, Dynamic Programming  
+**Problem:** [leetcode.com/problems/best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)  
+**Solution:** [`0188-best-time-to-buy-and-sell-stock-iv.java`](./0188-best-time-to-buy-and-sell-stock-iv.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv">188. Best Time to Buy and Sell Stock IV</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day, and an integer <code>k</code>.</p>
 
 <p>Find the maximum profit you can achieve. You may complete at most <code>k</code> transactions: i.e. you may buy at most <code>k</code> times and sell at most <code>k</code> times.</p>
@@ -29,3 +36,7 @@
 	<li><code>1 &lt;= prices.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 1000</code></li>
 </ul>
+
+## Approach
+
+_Pending._
