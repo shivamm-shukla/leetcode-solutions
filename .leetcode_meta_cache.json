@@ -851,6 +851,33 @@
       }
     ]
   },
+  "number-of-longest-increasing-subsequence": {
+    "difficulty": "Medium",
+    "id": "673",
+    "title": "Number of Longest Increasing Subsequence",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence"
+      }
+    ]
+  },
   "number-of-operations-to-make-network-connected": {
     "difficulty": "Medium",
     "id": "1319",

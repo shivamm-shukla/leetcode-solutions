@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Dynamic Programming, Binary Indexed Tree, Segment Tree, Longest Increasing Subsequence  
+**Problem:** [leetcode.com/problems/number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)  
+**Solution:** [`0673-number-of-longest-increasing-subsequence.java`](./0673-number-of-longest-increasing-subsequence.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence">673. Number of Longest Increasing Subsequence</a></h2><h3>Medium</h3><hr><p>Given an integer array&nbsp;<code>nums</code>, return <em>the number of longest increasing subsequences.</em></p>
 
 <p><strong>Notice</strong> that the sequence has to be <strong>strictly</strong> increasing.</p>
@@ -27,3 +34,7 @@
 	<li><code>-10<sup>6</sup> &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
 	<li>The answer is guaranteed to fit inside a 32-bit integer.</li>
 </ul>
+
+## Approach
+
+_Pending._
