@@ -674,6 +674,37 @@
       }
     ]
   },
+  "longest-string-chain": {
+    "difficulty": "Medium",
+    "id": "1048",
+    "title": "Longest String Chain",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "making-a-large-island": {
     "difficulty": "Hard",
     "id": "827",
