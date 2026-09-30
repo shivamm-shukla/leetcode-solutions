@@ -83,6 +83,7 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ## Array
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
@@ -99,9 +100,22 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1048-longest-string-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
