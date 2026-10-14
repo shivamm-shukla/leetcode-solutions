@@ -57,6 +57,33 @@
       }
     ]
   },
+  "assign-cookies": {
+    "difficulty": "Easy",
+    "id": "455",
+    "title": "Assign Cookies",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Quicksort",
+        "slug": "quicksort"
+      }
+    ]
+  },
   "best-time-to-buy-and-sell-stock": {
     "difficulty": "Easy",
     "id": "121",

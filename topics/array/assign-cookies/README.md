@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟢 Easy  
+**Topics:** Array, Two Pointers, Greedy, Sorting, Quicksort  
+**Problem:** [leetcode.com/problems/assign-cookies](https://leetcode.com/problems/assign-cookies/)  
+**Solution:** [`0455-assign-cookies.java`](./0455-assign-cookies.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/assign-cookies">455. Assign Cookies</a></h2><h3>Easy</h3><hr><p>Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.</p>
 
 <p>Each child <code>i</code> has a greed factor <code>g[i]</code>, which is the minimum size of a cookie that the child will be content with; and each cookie <code>j</code> has a size <code>s[j]</code>. If <code>s[j] &gt;= g[i]</code>, we can assign the cookie <code>j</code> to the child <code>i</code>, and the child <code>i</code> will be content. Your goal is to maximize the number of your content children and output the maximum number.</p>
@@ -34,3 +41,7 @@ You need to output 2.
 
 <p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as <a href="https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/" target="_blank"> 2410: Maximum Matching of Players With Trainers.</a></p>
+
+## Approach
+
+_Pending._
