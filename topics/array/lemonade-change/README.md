@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟢 Easy  
+**Topics:** Array, Greedy  
+**Problem:** [leetcode.com/problems/lemonade-change](https://leetcode.com/problems/lemonade-change/)  
+**Solution:** [`0860-lemonade-change.java`](./0860-lemonade-change.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/lemonade-change">890. Lemonade Change</a></h2><h3>Easy</h3><hr><p>At a lemonade stand, each lemonade costs <code>$5</code>. Customers are standing in a queue to buy from you and order one at a time (in the order specified by bills). Each customer will only buy one lemonade and pay with either a <code>$5</code>, <code>$10</code>, or <code>$20</code> bill. You must provide the correct change to each customer so that the net transaction is that the customer pays <code>$5</code>.</p>
 
 <p>Note that you do not have any change in hand at first.</p>
@@ -36,3 +43,7 @@ Since not every customer received the correct change, the answer is false.
 	<li><code>1 &lt;= bills.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>bills[i]</code> is either <code>5</code>, <code>10</code>, or <code>20</code>.</li>
 </ul>
+
+## Approach
+
+_Pending._

@@ -644,6 +644,21 @@
       }
     ]
   },
+  "lemonade-change": {
+    "difficulty": "Easy",
+    "id": "860",
+    "title": "Lemonade Change",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
   "letter-combinations-of-a-phone-number": {
     "difficulty": "Medium",
     "id": "17",
