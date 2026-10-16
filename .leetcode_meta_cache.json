@@ -774,6 +774,25 @@
       }
     ]
   },
+  "maximum-points-you-can-obtain-from-cards": {
+    "difficulty": "Medium",
+    "id": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
   "minimum-insertion-steps-to-make-a-string-palindrome": {
     "difficulty": "Hard",
     "id": "1312",

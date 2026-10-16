@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Sliding Window, Prefix Sum  
+**Problem:** [leetcode.com/problems/maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  
+**Solution:** [`1423-maximum-points-you-can-obtain-from-cards.java`](./1423-maximum-points-you-can-obtain-from-cards.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards">1538. Maximum Points You Can Obtain from Cards</a></h2><h3>Medium</h3><hr><p>There are several cards <strong>arranged in a row</strong>, and each card has an associated number of points. The points are given in the integer array <code>cardPoints</code>.</p>
 
 <p>In one step, you can take one card from the beginning or from the end of the row. You have to take exactly <code>k</code> cards.</p>
@@ -39,3 +46,7 @@
 	<li><code>1 &lt;= cardPoints[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= k &lt;= cardPoints.length</code></li>
 </ul>
+
+## Approach
+
+_Pending._
