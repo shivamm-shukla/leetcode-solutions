@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Hash Table, String, Sliding Window  
+**Problem:** [leetcode.com/problems/longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+**Solution:** [`0003-longest-substring-without-repeating-characters.java`](./0003-longest-substring-without-repeating-characters.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">3. Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty"><strong>substring</strong></span> without duplicate characters.</p>
 
 <p>&nbsp;</p>
@@ -33,3 +40,7 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 	<li><code>0 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
+
+## Approach
+
+_Pending._

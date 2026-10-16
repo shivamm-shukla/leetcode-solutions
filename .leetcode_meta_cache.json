@@ -747,6 +747,25 @@
       }
     ]
   },
+  "longest-substring-without-repeating-characters": {
+    "difficulty": "Medium",
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "making-a-large-island": {
     "difficulty": "Hard",
     "id": "827",
