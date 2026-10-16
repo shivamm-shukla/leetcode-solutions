@@ -541,6 +541,25 @@
       }
     ]
   },
+  "fruit-into-baskets": {
+    "difficulty": "Medium",
+    "id": "904",
+    "title": "Fruit Into Baskets",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "house-robber": {
     "difficulty": "Medium",
     "id": "198",
