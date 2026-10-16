@@ -793,6 +793,29 @@
       }
     ]
   },
+  "max-consecutive-ones-iii": {
+    "difficulty": "Medium",
+    "id": "1004",
+    "title": "Max Consecutive Ones III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
   "maximum-points-you-can-obtain-from-cards": {
     "difficulty": "Medium",
     "id": "1423",
