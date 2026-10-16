@@ -77,19 +77,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Sliding Window
-|  |
-| ------- |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Prefix Sum
-|  |
-| ------- |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-<!---LeetCode Topics End-->
