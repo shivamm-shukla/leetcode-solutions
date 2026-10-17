@@ -1362,6 +1362,29 @@
       }
     ]
   },
+  "subarrays-with-k-different-integers": {
+    "difficulty": "Hard",
+    "id": "992",
+    "title": "Subarrays with K Different Integers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
   "subsets-ii": {
     "difficulty": "Medium",
     "id": "90",

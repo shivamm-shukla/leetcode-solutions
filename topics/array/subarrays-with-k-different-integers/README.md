@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🔴 Hard  
+**Topics:** Array, Hash Table, Sliding Window, Counting  
+**Problem:** [leetcode.com/problems/subarrays-with-k-different-integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)  
+**Solution:** [`0992-subarrays-with-k-different-integers.java`](./0992-subarrays-with-k-different-integers.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/subarrays-with-k-different-integers">1034. Subarrays with K Different Integers</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of <strong>good subarrays</strong> of </em><code>nums</code>.</p>
 
 <p>A <strong>good array</strong> is an array where the number of different integers in that array is exactly <code>k</code>.</p>
@@ -32,3 +39,7 @@
 	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= nums[i], k &lt;= nums.length</code></li>
 </ul>
+
+## Approach
+
+_Pending._
