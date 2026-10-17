@@ -1065,6 +1065,25 @@
       }
     ]
   },
+  "number-of-substrings-containing-all-three-characters": {
+    "difficulty": "Medium",
+    "id": "1358",
+    "title": "Number of Substrings Containing All Three Characters",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "number-of-ways-to-arrive-at-destination": {
     "difficulty": "Medium",
     "id": "1976",

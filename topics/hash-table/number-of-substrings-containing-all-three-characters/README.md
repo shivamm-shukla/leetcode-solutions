@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Hash Table, String, Sliding Window  
+**Problem:** [leetcode.com/problems/number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)  
+**Solution:** [`1358-number-of-substrings-containing-all-three-characters.java`](./1358-number-of-substrings-containing-all-three-characters.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters">1460. Number of Substrings Containing All Three Characters</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>&nbsp;consisting only of characters <em>a</em>, <em>b</em> and <em>c</em>.</p>
 
 <p>Return the number of substrings containing <b>at least</b>&nbsp;one occurrence of all these characters <em>a</em>, <em>b</em> and <em>c</em>.</p>
@@ -33,3 +40,7 @@
 	<li><code>3 &lt;= s.length &lt;= 5 x 10<sup>4</sup></code></li>
 	<li><code>s</code>&nbsp;only consists of <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code> or <code>&#39;c&#39;</code> characters.</li>
 </ul>
+
+## Approach
+
+_Pending._
