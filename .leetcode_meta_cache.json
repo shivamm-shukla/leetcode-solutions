@@ -888,6 +888,25 @@
       }
     ]
   },
+  "minimum-window-substring": {
+    "difficulty": "Hard",
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "network-delay-time": {
     "difficulty": "Medium",
     "id": "743",
