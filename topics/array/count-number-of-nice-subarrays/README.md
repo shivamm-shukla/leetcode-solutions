@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Hash Table, Math, Sliding Window, Prefix Sum  
+**Problem:** [leetcode.com/problems/count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)  
+**Solution:** [`1248-count-number-of-nice-subarrays.java`](./1248-count-number-of-nice-subarrays.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/count-number-of-nice-subarrays">1370. Count Number of Nice Subarrays</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code> and an integer <code>k</code>. A continuous subarray is called <strong>nice</strong> if there are <code>k</code> odd numbers on it.</p>
 
 <p>Return <em>the number of <strong>nice</strong> sub-arrays</em>.</p>
@@ -34,3 +41,7 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10^5</code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
+
+## Approach
+
+_Pending._

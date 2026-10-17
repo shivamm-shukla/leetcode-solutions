@@ -14,12 +14,12 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-**Total solved: 69**
+**Total solved: 70**
 
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 9 |
-| 🟡 Medium | 48 |
+| 🟡 Medium | 49 |
 | 🔴 Hard | 12 |
 <!-- PROGRESS:END -->
 
@@ -30,7 +30,7 @@ Solutions reach this repo on their own — I don't move folders around by hand.
 <!-- TOPICS:START -->
 | Topic | Solved | Problems |
 |---|---|---|
-| Array | 43 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [63](topics/array/unique-paths-ii/ "Unique Paths II"), [64](topics/array/minimum-path-sum/ "Minimum Path Sum"), [79](topics/array/word-search/ "Word Search"), [90](topics/array/subsets-ii/ "Subsets II"), [121](topics/array/best-time-to-buy-and-sell-stock/ "Best Time to Buy and Sell Stock"), [122](topics/array/best-time-to-buy-and-sell-stock-ii/ "Best Time to Buy and Sell Stock II"), [123](topics/array/best-time-to-buy-and-sell-stock-iii/ "Best Time to Buy and Sell Stock III"), [188](topics/array/best-time-to-buy-and-sell-stock-iv/ "Best Time to Buy and Sell Stock IV"), [198](topics/array/house-robber/ "House Robber"), [200](topics/array/number-of-islands/ "Number of Islands"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [300](topics/array/longest-increasing-subsequence/ "Longest Increasing Subsequence"), [309](topics/array/best-time-to-buy-and-sell-stock-with-cooldown/ "Best Time to Buy and Sell Stock with Cooldown"), [322](topics/array/coin-change/ "Coin Change"), [368](topics/array/largest-divisible-subset/ "Largest Divisible Subset"), [416](topics/array/partition-equal-subset-sum/ "Partition Equal Subset Sum"), [455](topics/array/assign-cookies/ "Assign Cookies"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [494](topics/array/target-sum/ "Target Sum"), [518](topics/array/coin-change-ii/ "Coin Change II"), [542](topics/array/01-matrix/ "01 Matrix"), [673](topics/array/number-of-longest-increasing-subsequence/ "Number of Longest Increasing Subsequence"), [714](topics/array/best-time-to-buy-and-sell-stock-with-transaction-fee/ "Best Time to Buy and Sell Stock with Transaction Fee"), [721](topics/array/accounts-merge/ "Accounts Merge"), [733](topics/array/flood-fill/ "Flood Fill"), [827](topics/array/making-a-large-island/ "Making A Large Island"), [860](topics/array/lemonade-change/ "Lemonade Change"), [904](topics/array/fruit-into-baskets/ "Fruit Into Baskets"), [930](topics/array/binary-subarrays-with-sum/ "Binary Subarrays With Sum"), [994](topics/array/rotting-oranges/ "Rotting Oranges"), [997](topics/array/find-the-town-judge/ "Find the Town Judge"), [1004](topics/array/max-consecutive-ones-iii/ "Max Consecutive Ones III"), [1020](topics/array/number-of-enclaves/ "Number of Enclaves"), [1048](topics/array/longest-string-chain/ "Longest String Chain"), [1091](topics/array/shortest-path-in-binary-matrix/ "Shortest Path in Binary Matrix"), [1423](topics/array/maximum-points-you-can-obtain-from-cards/ "Maximum Points You Can Obtain from Cards"), [1631](topics/array/path-with-minimum-effort/ "Path With Minimum Effort"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated"), [2035](topics/array/partition-array-into-two-arrays-to-minimize-sum-difference/ "Partition Array Into Two Arrays to Minimize Sum Difference") |
+| Array | 44 | [1](topics/array/two-sum/ "Two Sum"), [39](topics/array/combination-sum/ "Combination Sum"), [40](topics/array/combination-sum-ii/ "Combination Sum II"), [63](topics/array/unique-paths-ii/ "Unique Paths II"), [64](topics/array/minimum-path-sum/ "Minimum Path Sum"), [79](topics/array/word-search/ "Word Search"), [90](topics/array/subsets-ii/ "Subsets II"), [121](topics/array/best-time-to-buy-and-sell-stock/ "Best Time to Buy and Sell Stock"), [122](topics/array/best-time-to-buy-and-sell-stock-ii/ "Best Time to Buy and Sell Stock II"), [123](topics/array/best-time-to-buy-and-sell-stock-iii/ "Best Time to Buy and Sell Stock III"), [188](topics/array/best-time-to-buy-and-sell-stock-iv/ "Best Time to Buy and Sell Stock IV"), [198](topics/array/house-robber/ "House Robber"), [200](topics/array/number-of-islands/ "Number of Islands"), [213](topics/array/house-robber-ii/ "House Robber II"), [216](topics/array/combination-sum-iii/ "Combination Sum III"), [300](topics/array/longest-increasing-subsequence/ "Longest Increasing Subsequence"), [309](topics/array/best-time-to-buy-and-sell-stock-with-cooldown/ "Best Time to Buy and Sell Stock with Cooldown"), [322](topics/array/coin-change/ "Coin Change"), [368](topics/array/largest-divisible-subset/ "Largest Divisible Subset"), [416](topics/array/partition-equal-subset-sum/ "Partition Equal Subset Sum"), [455](topics/array/assign-cookies/ "Assign Cookies"), [493](topics/array/reverse-pairs/ "Reverse Pairs"), [494](topics/array/target-sum/ "Target Sum"), [518](topics/array/coin-change-ii/ "Coin Change II"), [542](topics/array/01-matrix/ "01 Matrix"), [673](topics/array/number-of-longest-increasing-subsequence/ "Number of Longest Increasing Subsequence"), [714](topics/array/best-time-to-buy-and-sell-stock-with-transaction-fee/ "Best Time to Buy and Sell Stock with Transaction Fee"), [721](topics/array/accounts-merge/ "Accounts Merge"), [733](topics/array/flood-fill/ "Flood Fill"), [827](topics/array/making-a-large-island/ "Making A Large Island"), [860](topics/array/lemonade-change/ "Lemonade Change"), [904](topics/array/fruit-into-baskets/ "Fruit Into Baskets"), [930](topics/array/binary-subarrays-with-sum/ "Binary Subarrays With Sum"), [994](topics/array/rotting-oranges/ "Rotting Oranges"), [997](topics/array/find-the-town-judge/ "Find the Town Judge"), [1004](topics/array/max-consecutive-ones-iii/ "Max Consecutive Ones III"), [1020](topics/array/number-of-enclaves/ "Number of Enclaves"), [1048](topics/array/longest-string-chain/ "Longest String Chain"), [1091](topics/array/shortest-path-in-binary-matrix/ "Shortest Path in Binary Matrix"), [1248](topics/array/count-number-of-nice-subarrays/ "Count Number of Nice Subarrays"), [1423](topics/array/maximum-points-you-can-obtain-from-cards/ "Maximum Points You Can Obtain from Cards"), [1631](topics/array/path-with-minimum-effort/ "Path With Minimum Effort"), [1752](topics/array/check-if-array-is-sorted-and-rotated/ "Check if Array Is Sorted and Rotated"), [2035](topics/array/partition-array-into-two-arrays-to-minimize-sum-difference/ "Partition Array Into Two Arrays to Minimize Sum Difference") |
 | Depth First Search | 7 | [207](topics/depth-first-search/course-schedule/ "Course Schedule"), [210](topics/depth-first-search/course-schedule-ii/ "Course Schedule II"), [547](topics/depth-first-search/number-of-provinces/ "Number of Provinces"), [743](topics/depth-first-search/network-delay-time/ "Network Delay Time"), [785](topics/depth-first-search/is-graph-bipartite/ "Is Graph Bipartite?"), [802](topics/depth-first-search/find-eventual-safe-states/ "Find Eventual Safe States"), [1319](topics/depth-first-search/number-of-operations-to-make-network-connected/ "Number of Operations to Make Network Connected") |
 | String | 7 | [44](topics/string/wildcard-matching/ "Wildcard Matching"), [72](topics/string/edit-distance/ "Edit Distance"), [115](topics/string/distinct-subsequences/ "Distinct Subsequences"), [516](topics/string/longest-palindromic-subsequence/ "Longest Palindromic Subsequence"), [583](topics/string/delete-operation-for-two-strings/ "Delete Operation for Two Strings"), [1092](topics/string/shortest-common-supersequence/ "Shortest Common Supersequence "), [1312](topics/string/minimum-insertion-steps-to-make-a-string-palindrome/ "Minimum Insertion Steps to Make a String Palindrome") |
 | Hash Table | 6 | [3](topics/hash-table/longest-substring-without-repeating-characters/ "Longest Substring Without Repeating Characters"), [17](topics/hash-table/letter-combinations-of-a-phone-number/ "Letter Combinations of a Phone Number"), [76](topics/hash-table/minimum-window-substring/ "Minimum Window Substring"), [126](topics/hash-table/word-ladder-ii/ "Word Ladder II"), [127](topics/hash-table/word-ladder/ "Word Ladder"), [1358](topics/hash-table/number-of-substrings-containing-all-three-characters/ "Number of Substrings Containing All Three Characters") |
@@ -77,27 +77,3 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ---
 
 <sub>Organizer: <a href="scripts/organize.py"><code>scripts/organize.py</code></a> — run it locally any time with <code>python scripts/organize.py</code>.</sub>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
-## Hash Table
-|  |
-| ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
-## Math
-|  |
-| ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
-## Sliding Window
-|  |
-| ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
-## Prefix Sum
-|  |
-| ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
-<!---LeetCode Topics End-->
