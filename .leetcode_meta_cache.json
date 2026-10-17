@@ -182,6 +182,29 @@
       }
     ]
   },
+  "binary-subarrays-with-sum": {
+    "difficulty": "Medium",
+    "id": "930",
+    "title": "Binary Subarrays With Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
   "cheapest-flights-within-k-stops": {
     "difficulty": "Medium",
     "id": "787",

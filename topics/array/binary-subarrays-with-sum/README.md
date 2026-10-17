@@ -1,3 +1,10 @@
+
+<!-- PROBLEM:START -->
+**Difficulty:** 🟡 Medium  
+**Topics:** Array, Hash Table, Sliding Window, Prefix Sum  
+**Problem:** [leetcode.com/problems/binary-subarrays-with-sum](https://leetcode.com/problems/binary-subarrays-with-sum/)  
+**Solution:** [`0930-binary-subarrays-with-sum.java`](./0930-binary-subarrays-with-sum.java)
+<!-- PROBLEM:END -->
 <h2><a href="https://leetcode.com/problems/binary-subarrays-with-sum">966. Binary Subarrays With Sum</a></h2><h3>Medium</h3><hr><p>Given a binary array <code>nums</code> and an integer <code>goal</code>, return <em>the number of non-empty <strong>subarrays</strong> with a sum</em> <code>goal</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous part of the array.</p>
@@ -30,3 +37,7 @@
 	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
 	<li><code>0 &lt;= goal &lt;= nums.length</code></li>
 </ul>
+
+## Approach
+
+_Pending._
