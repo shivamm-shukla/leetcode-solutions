@@ -83,6 +83,7 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ## Hash Table
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -91,5 +92,14 @@ Problems are filed under their primary LeetCode tag, so a problem tagged `Array,
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Array
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivamm-shukla/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
